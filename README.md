@@ -7,10 +7,10 @@ Glitch art involves intentionally distorting images to create visually striking 
 
 **High Quality Images Examples:**
 
-Example 1:
+### Example 1:
 ![High Quality Image 1](Glitch_Art_1.jpeg)
 
-Example 2:
+### Example 2:
 ![High Quality Image 2](Glitch_Art_2.jpeg)
 
 ## Part 2: Coding Technique Exploration

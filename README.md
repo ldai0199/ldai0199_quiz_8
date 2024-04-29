@@ -7,8 +7,11 @@ My week 8 quiz
 
 Description: Glitch art involves intentionally distorting images to create visually striking and unexpected results. I find the chaotic and unpredictable nature of glitches fascinating, and I want to incorporate this aesthetic into my project to add an element of surprise and unpredictability.
 
-**Screenshots:**
+**High Quality Images Examples:**
 
+![High Quality Image 1](Glitch_Art_1.jpeg)
+
+![High Quality Image 2](Glitch_Art_2.jpeg)
 
 Part 2: Coding Technique Exploration
 

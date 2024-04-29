@@ -1,5 +1,14 @@
 # ldai0199_quiz_8
 My week 8 quiz
 
-**I love researching stuff for class**
-**Quiz 8** 
+# Part 1: Imaging Technique Inspiration
+
+## Chosen Technique: *Glitch Art*
+
+Description: Glitch art involves intentionally distorting images to create visually striking and unexpected results. I find the chaotic and unpredictable nature of glitches fascinating, and I want to incorporate this aesthetic into my project to add an element of surprise and unpredictability.
+
+**Screenshots:**
+
+
+Part 2: Coding Technique Exploration
+

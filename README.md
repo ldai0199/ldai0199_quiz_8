@@ -2,7 +2,7 @@
 
 ## Part 1: Chosen Technique Inspiration - *Glitch Art*
 
-Glitch art involves intentionally distorting images to create visually striking and unexpected results. I find the chaotic and unpredictable nature of glitches or distortion fields fascinating, allowing for mesmerizing animation effects. I want to incorporate this aesthetic by applying distortion algorithms or utilizing noise functions to generate dynamic distortions that continuously evolve over time, resulting in a visually engaging experience for my viewers, hoping to to add an element of surprise and unpredictability into my final project.
+Glitch art involves intentionally distorting images to create visually striking and unexpected results. I find the chaotic and unpredictable nature of glitches or distortion fields fascinating, allowing for mesmerizing animation effects. I want to incorporate this aesthetic by applying distortion algorithms or utilizing noise functions to generate dynamic distortions that continuously evolve over time, resulting in a visually engaging experience for my viewers, hoping to add an element of surprise and unpredictability into my final project.
 
 ### High Quality Images Examples:
 
@@ -13,7 +13,7 @@ Glitch art involves intentionally distorting images to create visually striking 
 ![High Quality Image 2](pictureassets/Glitch_Art_2.jpeg)
 
 ## Part 2: Coding Technique Exploration
-After researching, I came across a JavaScript example that utilizes HTML5 Canvas and the GIF.js library to dynamically manipulate images and produce glitch art GIFs. This example, which I intend to explore further for my project, incorporates distortion algorithms, random glitch effects, and canvas rotations to achieve visually striking and unpredictable glitch animations. Leveraging asynchronous functions ensures smooth execution, enhancing user interaction. This coding approach not only facilitates the implementation of glitch art but also aligns seamlessly with the desired imaging technique, creating captivating glitch art animations with ease.
+After researching online, I came across a coding technique example that utilizes HTML5 Canvas and the GIF.js library to dynamically manipulate images and produce glitch art GIFs. This example, which I intend to explore further for my project, incorporates distortion algorithms, random glitch effects, and canvas rotations to achieve visually striking and unpredictable glitch animations. Leveraging asynchronous functions ensures smooth execution, enhancing user interaction. This coding approach not only facilitates the implementation of glitch art but also aligns seamlessly with the desired imaging technique, creating captivating glitch art animations with ease.
 
 ### Screenshot Example:
 ![Screenshot](pictureassets/ScreenshotCodingTechnique.png)
